@@ -1,0 +1,19 @@
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_4\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.exe.config
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_4\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.exe.config
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_4\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.exe
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_4\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.pdb
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_4\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_4\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.exe
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_4\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.pdb
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.exe.config
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.exe
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.pdb
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.exe
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.pdb
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.exe.config
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.exe
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\ConsoleApplication1_3part\bin\Debug\ConsoleApplication1_3part.pdb
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.exe
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\ConsoleApplication1_3part\obj\Debug\ConsoleApplication1_3part.pdb

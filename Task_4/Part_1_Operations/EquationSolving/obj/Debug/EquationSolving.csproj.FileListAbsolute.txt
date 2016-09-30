@@ -1,0 +1,20 @@
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\EquationSolving\bin\Debug\EquationSolving.dll
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\EquationSolving\bin\Debug\EquationSolving.pdb
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\EquationSolving\obj\Debug\EquationSolving.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\EquationSolving\obj\Debug\EquationSolving.dll
+C:\Users\vlad2572\Documents\Visual Studio 2015\Projects\Task-4\EquationSolving\obj\Debug\EquationSolving.pdb
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\bin\Debug\EquationSolving.dll
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\bin\Debug\EquationSolving.pdb
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.dll
+C:\Users\Uladzislau_Lesneuski\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.pdb
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\bin\Debug\EquationSolving.dll
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\bin\Debug\EquationSolving.pdb
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.dll
+C:\Users\vlad2572\GitProjects\.NET-Tasks\Task-4\EquationSolving\obj\Debug\EquationSolving.pdb
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\EquationSolving\bin\Debug\EquationSolving.dll
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\EquationSolving\bin\Debug\EquationSolving.pdb
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\EquationSolving\obj\Debug\EquationSolving.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\EquationSolving\obj\Debug\EquationSolving.dll
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_4\Part_1_Operations\EquationSolving\obj\Debug\EquationSolving.pdb
