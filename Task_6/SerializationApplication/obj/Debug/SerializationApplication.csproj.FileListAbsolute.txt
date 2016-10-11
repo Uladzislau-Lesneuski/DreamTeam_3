@@ -1,0 +1,12 @@
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\bin\Debug\SerializationApplication.exe.config
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\obj\Debug\SerializationApplication.csprojResolveAssemblyReference.cache
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\bin\Debug\SerializationApplication.exe
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\bin\Debug\SerializationApplication.pdb
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\bin\Debug\Json.dll
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\bin\Debug\Newtonsoft.Json.dll
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\bin\Debug\Json.pdb
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\bin\Debug\Newtonsoft.Json.xml
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\obj\Debug\SerializationApplication.exe
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\obj\Debug\SerializationApplication.pdb
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\obj\Debug\SerializationApplication.Resource1.resources
+C:\Users\vlad2572\OneDrive\Task_6\SerializationApplication\obj\Debug\SerializationApplication.csproj.GenerateResource.Cache

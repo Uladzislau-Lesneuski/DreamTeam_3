@@ -1,0 +1,15 @@
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_6\ReadFileApplication\bin\Debug\ReadFileApplication.exe.config
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_6\ReadFileApplication\bin\Debug\ReadFileApplication.exe
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_6\ReadFileApplication\bin\Debug\ReadFileApplication.pdb
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.csprojResolveAssemblyReference.cache
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.exe
+c:\users\uladzislau_lesneuski\documents\visual studio 2015\Projects\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.pdb
+C:\Users\vlad2572\OneDrive\Task_6\ReadFileApplication\bin\Debug\ReadFileApplication.exe.config
+C:\Users\vlad2572\OneDrive\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.exe
+C:\Users\vlad2572\OneDrive\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.pdb
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_6\ReadFileApplication\bin\Debug\ReadFileApplication.exe.config
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.exe
+C:\Users\Uladzislau_Lesneuski\OneDrive\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.pdb
+C:\Users\vlad2572\OneDrive\Task_6\ReadFileApplication\bin\Debug\ReadFileApplication.exe
+C:\Users\vlad2572\OneDrive\Task_6\ReadFileApplication\bin\Debug\ReadFileApplication.pdb
+C:\Users\vlad2572\OneDrive\Task_6\ReadFileApplication\obj\Debug\ReadFileApplication.csprojResolveAssemblyReference.cache
