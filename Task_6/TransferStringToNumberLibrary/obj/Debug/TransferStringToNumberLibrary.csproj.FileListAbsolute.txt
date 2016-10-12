@@ -1,0 +1,5 @@
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_6\TransferStringToNumberLibrary\bin\Debug\TransferStringToNumberLibrary.dll
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_6\TransferStringToNumberLibrary\bin\Debug\TransferStringToNumberLibrary.pdb
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_6\TransferStringToNumberLibrary\obj\Debug\TransferStringToNumberLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_6\TransferStringToNumberLibrary\obj\Debug\TransferStringToNumberLibrary.dll
+C:\Users\Uladzislau_Lesneuski\Documents\Visual Studio 2015\Projects\Task_6\TransferStringToNumberLibrary\obj\Debug\TransferStringToNumberLibrary.pdb
