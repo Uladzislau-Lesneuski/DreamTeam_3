@@ -78,19 +78,20 @@ namespace WPFapplication
         {
             try
             {
-                FillTypesList(GetTypes(TextBox1.Text + ListBoxDlls.SelectedItem.ToString()));
+                FillTypesList(GetTypes(TextBox1.Text + @"\" + ListBoxDlls.SelectedItem.ToString()));
             }
             catch (BadImageFormatException)
             {
                 MessageBoxResult result = System.Windows.MessageBox.Show("Содержимое dll файла не соответсвует ожидаемому");
                 ListBoxTypes.Items.Clear();
                 ListBoxContent.Items.Clear();
-            } catch (FileNotFoundException)
-            {
-                MessageBoxResult result = System.Windows.MessageBox.Show("Нет доступа к dll файлу");
-            } catch (NullReferenceException) { }
+                //} catch (FileNotFoundException)
+                //{
+                //    MessageBoxResult result = System.Windows.MessageBox.Show("Нет доступа к dll файлу");
+            }
+            catch (NullReferenceException) { }
 
-                  
+
         }
 
         //выбор Типа из содержащихся в dll файле
@@ -138,7 +139,7 @@ namespace WPFapplication
         public MethodInfo[] ReturnMethods()
         {
             MethodInfo[] methods = null;
-            foreach (var item in GetTypes(TextBox1.Text + ListBoxDlls.SelectedItem.ToString()))
+            foreach (var item in GetTypes(TextBox1.Text + @"\" + ListBoxDlls.SelectedItem.ToString()))
             {
                 if (item.ToString().Equals(ListBoxTypes.SelectedItem.ToString()))
                 {
@@ -153,7 +154,7 @@ namespace WPFapplication
         public FieldInfo[] ReturnFields()
         {
             FieldInfo[] fields = null;
-            foreach (var item in GetTypes(TextBox1.Text + ListBoxDlls.SelectedItem.ToString()))
+            foreach (var item in GetTypes(TextBox1.Text + @"\" + ListBoxDlls.SelectedItem.ToString()))
             {
                 if (item.ToString().Equals(ListBoxTypes.SelectedItem.ToString())) /// null reference
                 {
@@ -169,7 +170,7 @@ namespace WPFapplication
         public PropertyInfo[] ReturnProperties()
         {
             PropertyInfo[] properties = null;
-            foreach (var item in GetTypes(TextBox1.Text + ListBoxDlls.SelectedItem.ToString()))
+            foreach (var item in GetTypes(TextBox1.Text + @"\" + ListBoxDlls.SelectedItem.ToString()))
             {
                 if (item.ToString().Equals(ListBoxTypes.SelectedItem.ToString()))
                 {

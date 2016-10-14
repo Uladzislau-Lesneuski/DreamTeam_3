@@ -24,3 +24,16 @@ C:\Users\vlad2572\OneDrive\Task_7\WPFapplication\obj\Debug\WPFapplication.csproj
 C:\Users\vlad2572\OneDrive\Task_7\WPFapplication\obj\Debug\MainWindow.baml
 C:\Users\vlad2572\OneDrive\Task_7\WPFapplication\obj\Debug\MainWindow.g.cs
 C:\Users\vlad2572\OneDrive\Task_7\WPFapplication\obj\Debug\App.g.cs
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\bin\Debug\WPFapplication.exe.config
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\WPFapplication.exe
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\WPFapplication.pdb
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\bin\Debug\WPFapplication.exe
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\bin\Debug\WPFapplication.pdb
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\WPFapplication.csprojResolveAssemblyReference.cache
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\MainWindow.baml
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\MainWindow.g.cs
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\App.g.cs
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\WPFapplication_MarkupCompile.cache
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\WPFapplication.g.resources
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\WPFapplication.Properties.Resources.resources
+C:\Users\Uladzislau_Lesneuski\DreamTeam_3\Task_7\WPFapplication\obj\Debug\WPFapplication.csproj.GenerateResource.Cache
